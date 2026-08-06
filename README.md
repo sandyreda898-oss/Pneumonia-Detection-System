@@ -114,7 +114,7 @@ Pneumonia-Detection-System
 ├── assets/
 ├── sample_images/
 ├── screenshots/
-└── .streamlit/
+
 ```
 
 ---
@@ -159,22 +159,25 @@ Pneumonia-Detection-System/
 
 ## 🏠 Home Page
 
-![Home](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/home.png" width="900">
+</p>
 
 ---
 
 ## ✅ Normal Prediction
 
-![Normal](screenshots/normal_prediction.png)
+<p align="center">
+  <img src="screenshots/normal_prediction.png" width="900">
+</p>
 
 ---
 
 ## 🦠 Pneumonia Prediction
 
-![Pneumonia](screenshots/pneumonia_prediction.png)
-
----
-
+<p align="center">
+  <img src="screenshots/pneumonia_prediction.png" width="900">
+</p>
 # ✨ Features
 
 - Upload Chest X-ray images
