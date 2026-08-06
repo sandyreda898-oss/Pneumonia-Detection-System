@@ -111,7 +111,6 @@ Pneumonia-Detection-System
 ├── requirements.txt
 ├── README.md
 │
-├── assets/
 ├── sample_images/
 ├── screenshots/
 
