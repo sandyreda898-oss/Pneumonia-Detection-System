@@ -177,8 +177,10 @@ Pneumonia-Detection-System/
 <p align="center">
   <img src="screenshots/pneumonia_prediction.jpg" alt="Pneumonia Prediction" width="900"/>
 </p>
-# ✨ Features
 
+---
+
+#✨Features
 - Upload Chest X-ray images
 - AI-powered prediction
 - Confidence score
