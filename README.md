@@ -1,7 +1,7 @@
 # Pneumonia-Detection-System
 AI-powered Pneumonia Detection System using Deep Learning and Streamlit for Chest X-ray image classification.
 
-# 🫁 Pneumonia Detection System using EfficientNetB0
+#  Pneumonia Detection System using EfficientNetB0
 
 An AI-powered web application for detecting **Pneumonia** from **Chest X-ray images** using **Transfer Learning with EfficientNetB0** and an interactive **Streamlit** interface.
 
@@ -160,7 +160,7 @@ Pneumonia-Detection-System/
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="screenshots/home.png" width="900">
+  <img src="screenshots/Home.jpg" alt="Home Page" width="900"/>
 </p>
 
 ---
@@ -168,7 +168,7 @@ Pneumonia-Detection-System/
 ## ✅ Normal Prediction
 
 <p align="center">
-  <img src="screenshots/normal_prediction.png" width="900">
+  <img src="screenshots/normal_prediction.jpg" alt="Normal Prediction" width="900"/>
 </p>
 
 ---
@@ -176,7 +176,7 @@ Pneumonia-Detection-System/
 ## 🦠 Pneumonia Prediction
 
 <p align="center">
-  <img src="screenshots/pneumonia_prediction.png" width="900">
+  <img src="screenshots/pneumonia_prediction.jpg" alt="Pneumonia Prediction" width="900"/>
 </p>
 # ✨ Features
 
