@@ -7,3 +7,4 @@ matplotlib
 pillow
 opencv-python
 scikit-learn
+3.12
