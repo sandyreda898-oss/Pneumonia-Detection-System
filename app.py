@@ -14,6 +14,7 @@ import base64
 import os
 import textwrap
 from pathlib import Path
+import gdown
 
 import numpy as np
 import streamlit as st
@@ -35,6 +36,18 @@ st.set_page_config(
 BASE_DIR = Path(__file__).parent
 ASSETS_DIR = BASE_DIR / "assets"
 MODEL_PATH = BASE_DIR / "chest_xray_classifier.keras"
+
+
+MODEL_FILE_ID = "1xlfBfya-qwLXYnTLkcC6mSj4GI52yeZD"
+
+if not MODEL_PATH.exists():
+    with st.spinner("Loading AI model..."):
+        gdown.download(
+            id=MODEL_FILE_ID,
+            output=str(MODEL_PATH),
+            quiet=False
+        )
+     
 
 BACKGROUND_IMG = ASSETS_DIR / "background.jpg"
 LUNGS_IMG = ASSETS_DIR / "lungs.png"
